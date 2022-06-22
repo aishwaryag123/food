@@ -1,0 +1,32 @@
+/********************TAG SELECTORS******************/
+
+h1{
+    color: rgba(235, 155, 35, 0.859);
+    font-size: 70px;
+}
+
+
+img:hover{
+    background-color: rgb(53, 7, 7);
+}
+
+
+/********************CLASS SELECTORS******************/
+
+.pasta{
+    background-color: blanchedalmond;
+}
+
+.eggplant{
+    background-color: rgb(238, 190, 244);
+}
+
+.circular{
+    border-radius: 20px;
+}
+
+/********************ID SELECTORS******************/
+
+#heading{
+    color:brown;
+}
